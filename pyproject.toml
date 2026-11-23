@@ -26,6 +26,7 @@ agent-relay = "agent_relay.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/kfairy9999/agent-relay"
+Portfolio = "https://kfairy9999.github.io/"
 
 [tool.setuptools.packages.find]
 where = ["src"]
