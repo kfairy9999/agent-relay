@@ -1,0 +1,19 @@
+Subject: [RELAY RY-36][NEED_APPROVAL] Send the London and Boston agency emails
+
+From: ZION <kfairley9999-8h3zwh@mail.grokbot.com>
+To: Kai <info@turfprossolution.com>
+
+Agent Relay message
+
+From: zion
+To: kai
+Task: RY-36
+Status: need_approval
+Due: 2026-11-23
+Approved: no
+
+Ask:
+Please send the London and Boston agency emails. Use the drafts already prepared. Do not send until Kevin approves.
+
+Artifacts:
+- agency-drafts: https://example.com/drafts
