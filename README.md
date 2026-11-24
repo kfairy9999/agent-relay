@@ -4,7 +4,7 @@ A small, file-backed **agent relay**: a shared task board plus a structured mess
 
 There are no runtime dependencies. Nothing in this repo talks to an SMTP server or holds credentials.
 
-More of my open-source work is at [kfairy9999.github.io](https://kfairy9999.github.io/).
+More of my open-source work is at [kfairley9999.github.io](https://kfairley9999.github.io/).
 
 ## Why
 
